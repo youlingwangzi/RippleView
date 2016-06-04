@@ -5,6 +5,7 @@
         <attr name="rippleColor" format="color" />
         <attr name="alphaFactor" format="float" />
         <attr name="hover" format="boolean" />
+        <attr name="startRadius" format="integer" />
     </declare-styleable>
 
 </resources>
