@@ -2,6 +2,9 @@
 
 #RippleView
 
+这个分支增加了对于圆半径的控制，可在代码中控制，也可在xml中控制。
+同时我的应用【程序员计算器】便使用了这个开源项目实现Ripple效果。
+
 View that imitates Ripple Effect on click which was introduced in Android L.
 
 ![Sample Screenshot](https://raw.github.com/siriscac/RippleView/master/Screens/Screen.gif)
